@@ -1774,6 +1774,7 @@ button,
         display: block;
         width: 100%; }
   @media screen and (min-width: 1681px) {
+	  margin: 0 250px;
     .posts article:nth-child(3n + 1):before {
       display: none; }
     .posts article:nth-child(3n + 1):after {
