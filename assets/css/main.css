@@ -28,7 +28,9 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  line-height: 1; }
+  line-height: 1; 
+  margin-left: 250px;
+  margin-right: 250px;}
 
 ol, ul {
   list-style: none; }
