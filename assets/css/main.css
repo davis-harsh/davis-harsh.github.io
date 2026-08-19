@@ -5,22 +5,12 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-@media screen and (min-width: 1024px) {
+ @media (min-width: 1024px) {
   body {
-    margin: 0 250px;
+    margin-left: 250px;
+    margin-right: 250px;
   }
 }
-
-@media screen and (min-width: 1024px) {
-  .main-container {
-    max-width: 1200px;
-    margin-left: auto; 
-    margin-right: auto; 
-    padding: 0 250px;   
-  }
-}
-
-
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
